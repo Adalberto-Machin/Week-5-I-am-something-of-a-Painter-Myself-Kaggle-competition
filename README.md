@@ -74,5 +74,5 @@ To improve the score further (target: <50), the following techniques are planned
 3.  **ResNet Generator:** Switch from U-Net to a ResNet-based generator (6 or 9 blocks) to better separate content from style.
 4.  **Replay Buffer:** Implement an image buffer to train the discriminator on a history of generated images, reducing oscillation.
 
-## 📜 License
+## License
 This project is open-source and available under the MIT License.
